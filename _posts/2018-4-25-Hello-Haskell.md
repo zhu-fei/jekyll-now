@@ -11,4 +11,4 @@ main = do
 ```
 
 
-![_config.yml]({{ site.baseurl }}/images/step1.gif)
+;![_config.yml]({{ site.baseurl }}/images/step1.gif)

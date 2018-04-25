@@ -10,4 +10,5 @@ title: Hello, haskell!
 ``` bash
 main :: IO ()
 main = do
-  putS
+  putStrLn "Hello world"
+```
